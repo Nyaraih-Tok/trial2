@@ -1,0 +1,26 @@
+{
+  "name": "Linux_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "send_WA.js",
+  "dependencies": {
+    "node-notifier": "^10.0.1",
+    "puppeteer-core": "^23.4.0",
+    "twilio": "^5.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nyaraih-Tok/trial2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nyaraih-Tok/trial2/issues"
+  },
+  "homepage": "https://github.com/Nyaraih-Tok/trial2#readme"
+}
